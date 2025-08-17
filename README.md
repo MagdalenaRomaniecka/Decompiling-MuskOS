@@ -71,7 +71,4 @@ Elon Musk's language on social media is a precisely constructed system based on 
 
 ---
 
-### Potential Next Steps
-- **Sentiment Analysis:** To determine if the emotional tone of tweets changes over time.
-- **Topic Modeling:** To automatically discover hidden topics in the tweets.
-- **Correlation Analysis:** To measure the relationship between tweet frequency and external data like the Tesla ($TSLA) stock price.
+
