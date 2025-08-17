@@ -46,7 +46,7 @@ The script generates a clean dataset named `wyniki_analizy_tweetow.csv` (availab
 ### Results: Trends Over Time
 The line chart below was generated from the processed data and illustrates the changing frequency of key terms in Elon Musk's tweets.
 
-![Chart of Elon Musk's Tweet Trends]("C:\Users\Alina\Desktop\elon2.png")
+![Chart of Elon Musk's Tweet Trends]("C:\Users\Alina\Desktop\elon 1.png")
 
 ---
 
