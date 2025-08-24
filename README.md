@@ -1,6 +1,5 @@
 # Decompiling-MuskOS
 A data-driven analysis of Elon Musk's communication patterns, based on a comprehensive dataset of his tweets.
-# Project "Elon, What?!": A Linguistic Deconstruction of a Visionary's Mind
 
 ### Table of Contents
 1. [Project Goal](#project-goal)
@@ -34,9 +33,11 @@ This project shows an end-to-end data pipeline, transforming a large, raw datase
 **1. Data Sourcing (The First File):**
 Due to GitHub's file size limitations, the raw dataset (`all_musk_posts.csv`) is hosted externally on Google Drive.
 
+**[➡️ Download the full raw dataset from Google Drive](https://drive.google.com/file/d/1QsCQF8Zgnrpl_aBAOsHe4YR5LbDs_JAP/view?usp=drive_link)**
+
 
 **2. Data Cleaning & Aggregation (The Python Script):**
-The Python script (available in the `/notebooks` folder) loads the raw data, cleans it, creates a `Year` feature from the `createdAt` column, searches for keywords, and aggregates the results to count the frequency of each term per year.
+**[The Python script, available here in the `/notebooks` folder](notebooks/YOUR_NOTEBOOK_NAME.ipynb)**, loads the raw data.
 
 **3. Data Output (The Second File):**
 The script generates a clean dataset named `wyniki_analizy_tweetow.csv` (available in the `/data` folder), which is the direct input for the visualization.
@@ -47,7 +48,16 @@ The script generates a clean dataset named `wyniki_analizy_tweetow.csv` (availab
 The line chart below was generated from the processed data and illustrates the changing frequency of key terms in Elon Musk's tweets.
 
 ![Chart of Elon Musk's Tweet Trends](images/elon1.png)
+#### **Final Aggregated Data Sample**
+The raw data was processed to produce the following aggregated results, which were used for visualization:
 
+| Year | Found_Term   | Count |
+|------|--------------|-------|
+| 2017 | coming soon  | 25    |
+| 2017 | exactly      | 45    |
+| ...  | ...          | ...   |
+
+#### **Visualization of Trends**
 ---
 
 ### Analysis and Conclusions
