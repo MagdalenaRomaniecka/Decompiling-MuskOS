@@ -37,7 +37,7 @@ Due to GitHub's file size limitations, the raw dataset (`all_musk_posts.csv`) is
 
 
 **2. Data Cleaning & Aggregation (The Python Script):**
-**[The Python script, available here in the `/notebooks` folder](notebooks/YOUR_NOTEBOOK_NAME.ipynb)**, loads the raw data.
+**[The Python script, available here in the `/notebooks` folder](notebooks/.....ipynb)**, loads the raw data.
 
 **3. Data Output (The Second File):**
 The script generates a clean dataset named `wyniki_analizy_tweetow.csv` (available in the `/data` folder), which is the direct input for the visualization.
