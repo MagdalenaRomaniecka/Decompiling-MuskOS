@@ -84,7 +84,7 @@ graph LR
 ### Results: Trends Over Time
 The line chart below was generated from the processed data and illustrates the changing frequency of key terms in Elon Musk's tweets.
 
-![Chart of Elon Musk's Tweet Trends]((images/elon.png))
+![Chart of Elon Musk's Tweet Trends]((images/Elon.png))
 
 #### **Final Aggregated Data Sample**
 The raw data was processed to produce the following aggregated results, which were used for visualization:
