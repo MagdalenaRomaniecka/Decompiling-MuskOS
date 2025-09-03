@@ -17,6 +17,13 @@ Project Summary: This project analyzes over a decade of Elon Musk's posts on X t
 ### Project Goal
 This project's goal was to create a visual linguistic profile of Elon Musk based on aggregated word frequency data. It aims to humorously and data-drivenly investigate whether his digital footprint paints a picture of a titan of innovation, a king of marketing, or perhaps just a man who really, really likes the word "yeah".
 
+The objective of this analysis is to move beyond surface-level observations of Elon Musk's social media presence. By applying Natural Language Processing (NLP) and time-series analysis to his posts on X, this project aims to:
+
+Quantify the evolution of his key messaging themes over time.
+
+Identify data-driven correlations between his linguistic patterns and major real-world events (e.g., product launches, corporate acquisitions).
+
+Create a linguistic profile that defines his core communication strategy, whether for innovation marketing, public relations, or direct community engagement.
 ---
 
 ### Getting Started
