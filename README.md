@@ -57,6 +57,29 @@ jupyter notebook notebooks/musk_tweet_analysis.ipynb
 ### Tech Stack & Purpose
 | Category | Tools | Purpose |
 |---|---|---|
+### Data Processing & Analysis:
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+---
+
+### Data Visualization:
+<p>
+    <img src="https://img.shields.io/badge/Matplotlib-E37400?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+    <img src="https://img.shields.io/badge/Seaborn-025E8C?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+</p>
+
+---
+
+### Environment & Sourcing:
+<p>
+    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</p>
+
 | **Data Sourcing** | <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/> <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"/> | Sourcing the initial dataset and hosting the large raw file. |
 | **Language & Libraries** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> | Core language for scripting; chosen for its efficiency in handling and cleaning large datasets. |
 | **Data Visualization** | <img src="https://img.shields.io/badge/Matplotlib-E37400?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-025E8C?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/> | Generating static charts to visualize trends over time. |
