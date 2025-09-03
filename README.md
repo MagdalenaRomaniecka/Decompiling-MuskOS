@@ -1,6 +1,8 @@
 # Decompiling-MuskOS
 An NLP analysis of Elon Musk's linguistic patterns on X (formerly Twitter) to uncover his communication strategy.
 
+Project Summary: This project analyzes over a decade of Elon Musk's posts on X to identify core linguistic patterns and quantify his communication strategy. Using Python, Pandas, and NLP techniques, I processed a large dataset to visualize trends in his word usage, revealing a calculated approach to brand management, media interaction, and public engagement.
+
 ### Table of Contents
 1. [Project Goal](#project-goal)
 2. [Getting Started](#getting-started)
