@@ -94,6 +94,15 @@ graph LR
 The line chart below was generated from the processed data and illustrates the changing frequency of key terms in Elon Musk's tweets.
 
 ![Chart of Elon Musk's Tweet Trends](images/Elon.png)
+Results: Trends Over Time
+The line chart below illustrates the changing frequency of key terms in Elon Musk's posts.
+
+Key Observations from the Data:
+A sharp spike in the use of "legacy media" directly correlates with the period of the Twitter (X) acquisition in 2022, suggesting its use as a strategic tool in public debate.
+
+The term "Tesla" shows consistent, high-frequency usage, with notable peaks during critical production phases like the Model 3 ramp-up (2017-2018).
+
+Conversational affirmations ("yeah", "exactly", "true") maintain a consistently high baseline, highlighting his strategy of using the platform for direct, seemingly authentic engagement rather than just broadcasting.
 
 #### **Final Aggregated Data Sample**
 The raw data was processed to produce the following aggregated results, which were used for visualization:
