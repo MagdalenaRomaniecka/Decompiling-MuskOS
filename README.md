@@ -154,7 +154,8 @@ Elon Musk's language on social media is a precisely constructed system based on 
 ---
 
 ### Potential Next Steps
-
+* **In-depth Contextual Analysis:** Integrate quantitative findings with in-depth qualitative analysis and detailed source research (deep research). The goal is to connect the identified linguistic patterns with key political, social, and economic events to fully understand the drivers and impacts of his communication.
+* 
 * **Perform sentiment analysis** on tweets containing specific keywords (e.g., "Tesla", "legacy media") to quantify the emotional context over time.
 * **Use Topic Modeling (LDA)** to automatically discover hidden thematic structures in his communication, beyond predefined keywords.
 * **Create an interactive dashboard** using Plotly Dash or Streamlit to allow users to explore the data and filter by keywords and date ranges.
