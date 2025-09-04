@@ -154,7 +154,8 @@ Elon Musk's language on social media is a precisely constructed system based on 
 ---
 
 ### Potential Next Steps
-* **Sentiment Analysis**: Perform sentiment analysis on tweets containing specific keywords (e.g., "Tesla", "legacy media") to quantify the emotional context over time.
-* **Topic Modeling (LDA)**: Use topic modeling to automatically discover hidden thematic structures in his communication, beyond predefined keywords.
-* **Interactive Dashboard**: Create an interactive dashboard using Plotly Dash or Streamlit to allow users to explore the data and filter by keywords and date ranges.
-* **Comparative Analysis**: Compare Musk's linguistic patterns with those of other tech CEOs like Mark Zuckerberg or Tim Cook.
+
+* **Perform sentiment analysis** on tweets containing specific keywords (e.g., "Tesla", "legacy media") to quantify the emotional context over time.
+* **Use Topic Modeling (LDA)** to automatically discover hidden thematic structures in his communication, beyond predefined keywords.
+* **Create an interactive dashboard** using Plotly Dash or Streamlit to allow users to explore the data and filter by keywords and date ranges.
+* **Conduct a comparative analysis** of Musk's linguistic patterns with those of other tech CEOs, such as Mark Zuckerberg or Tim Cook.
